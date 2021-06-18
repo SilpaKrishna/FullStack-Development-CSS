@@ -1,0 +1,18 @@
+body {
+    font-family: arial, helvetica, sans-serif;
+    font-size: 14px;
+}
+h1
+{
+    color: blueviolet;
+    letter-spacing: 0.5em;
+    word-spacing: 2em;
+    line-height: 1.5;
+    text-align: center;
+}
+p
+{
+    font-style: oblique;
+    text-transform: uppercase;
+    color: rgb(248, 15, 151);
+}
